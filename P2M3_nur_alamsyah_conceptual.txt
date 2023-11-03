@@ -1,0 +1,14 @@
+Milestone 3
+Conceptual Problem
+
+Nama: Muhammad Nur Alamsyah
+Batch: RMT-023
+
+1. Jelaskan apa yang Anda ketahui dari Airflow menggunakan pemahaman dan bahasa Anda sendiri !
+Jawab: Airflow adalah platform untuk merancang, menyusun, dan memonitor workflow. Airflow mengorganisir workflow menggunakan konsep DAG (Directed Acyclic Graph). Airflow dapat digunakan untuk melakukan scheduling tugas pada interval waktu tertentu. Terdapat web interface dari Airflow untuk mempermudah dalam manajemen workflow.
+
+2. Jelaskan apa yang Anda ketahui dari Great Expectations menggunakan pemahaman dan bahasa Anda sendiri !
+Jawab: Great Expectations adalah library python yang menyediakan framework untuk mendefinisikan, manajemen, dan memvalidasi ekspektasi/kriteria/rules dari data. Great Expectations membantu dalam meningkatkan kualitas data dan kepercayaan data.
+
+3. Jelaskan apa yang Anda ketahui dari Batch Processing menggunakan pemahaman dan bahasa Anda sendiri (Definisi, Contoh Kasus Penggunaan, Tools, dll) !
+Jawab: Batch Processing adalah metode untuk melakukan pemrosesan data sebagai sebuah batch. Batch processing berguna dalam menjalankan tugas dengan volume yang tinggi dan repetitif, serta tanpa intervensi manusia. Contohnya adalah pengolahan transaksi bank, pengiriman email massal, serta backup data berkala. Tools yang digunakan dalam batch processing antara lain Apache Hadoop, Apache Spark, Airflow, SQL Server Integration Services (SSIS).
